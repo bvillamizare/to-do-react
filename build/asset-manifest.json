@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/css/main.a956363e.css",
+    "main.js": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/js/main.340efa47.js",
+    "index.html": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/index.html",
+    "static/media/delete.svg": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.a956363e.css.map": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/css/main.a956363e.css.map",
+    "main.340efa47.js.map": "/Users/bvill/Downloads/platzi/curso-react/curso-react-intro/build/static/js/main.340efa47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a956363e.css",
+    "static/js/main.340efa47.js"
+  ]
+}
