@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-react/static/css/main.a956363e.css",
+    "main.js": "/to-do-react/static/js/main.a0e363f9.js",
+    "index.html": "/to-do-react/index.html",
+    "static/media/delete.svg": "/to-do-react/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/to-do-react/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.a956363e.css.map": "/to-do-react/static/css/main.a956363e.css.map",
+    "main.a0e363f9.js.map": "/to-do-react/static/js/main.a0e363f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a956363e.css",
+    "static/js/main.a0e363f9.js"
+  ]
+}
